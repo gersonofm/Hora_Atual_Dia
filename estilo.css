@@ -1,0 +1,29 @@
+body {
+  background: rgb(70, 138, 54); /* cor de fundo */
+  font: normal 15pt Arial; /* fonte */
+}
+
+header {
+  text-align: center; /* alinhamento do texto */
+  color: white; /* cor da fonte */
+}
+
+section {
+  background: white; /* cor de fundo */
+  border-radius: 20px; /* borda arredondada */
+  width: 500px; /* largura */
+  padding: 15px; /* espaçamento */
+  text-align: center; /* alinhamento do texto */
+  margin: auto;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.363); /* sombra do box */
+}
+
+div {
+  padding: 2px; /* espaçamento */
+}
+
+footer {
+  text-align: center; /* alinhamento do texto */
+  font-style: italic; /* fonte em itálico */
+  color: white; /* cor da fonte */
+}
